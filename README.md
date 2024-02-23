@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fe051 - I live in Ottawa, Canada with my spouse and pets.
+- 👋 Hi, I’m @fe051 - I live in Ottawa, Canada.
 - 👀 I’m interested in ancient software, archive documentation, vintage programs, etc.
 - 🌱 I’m currently learning 6800x assembler.
 - 💞️ I’m looking to collaborate on anything that captures my attention. Old games, old utilities, old documents.
